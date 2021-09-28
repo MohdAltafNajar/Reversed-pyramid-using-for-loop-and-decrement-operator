@@ -1,0 +1,1 @@
+# Reversed-pyramid-using-for-loop-and-decrement-operator
